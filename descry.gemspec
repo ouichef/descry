@@ -5,7 +5,7 @@ require_relative "lib/descry/version"
 Gem::Specification.new do |spec|
   spec.name = "descry"
   spec.version = Descry::VERSION
-  spec.authors = ["roman howdoyoudo"]
+  spec.authors = ["ouichef"]
   spec.email = ["roman.howdoyoudo@gmail.com"]
 
   spec.summary = "A note taking helper"
